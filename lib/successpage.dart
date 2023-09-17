@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:web_stripe/main.dart';
+import 'main.dart';
 
 class SuccessWidget extends StatelessWidget {
   @override
