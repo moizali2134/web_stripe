@@ -1,4 +1,4 @@
-# web_strpe
+# web_stirpe
 
 A new Flutter project.
 
