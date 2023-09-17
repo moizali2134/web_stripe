@@ -4,8 +4,8 @@ import 'dart:html' as html;
 import 'package:http/http.dart' as http;
 import 'package:flutter/material.dart';
 import 'package:stripe_checkout/stripe_checkout.dart';
-import 'package:web_strpe/errorpage.dart';
-import 'package:web_strpe/successpage.dart';
+import 'package:web_stripe/errorpage.dart';
+import 'package:web_stripe/successpage.dart';
 
 
 
